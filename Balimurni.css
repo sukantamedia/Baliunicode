@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'Natya';
+    src: url('Natya.eot');
+    src: url('Natya.eot?#iefix') format('embedded-opentype'),
+         url('Natya.woff2') format('woff2'),
+         url('Natya.woff') format('woff'),
+         url('Natya.ttf') format('truetype'),
+         url('Natya.svg#Natyaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
