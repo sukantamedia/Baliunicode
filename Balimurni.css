@@ -50,3 +50,16 @@
     font-size: 20px;
     line-height: 2.0;
 }
+@font-face {
+    font-family:'Dwita Patra';
+    src: url('Dwita Patra.eot');
+    src: url('Dwita Patra.eot?#iefix') format('embedded-opentype'),
+         url('Dwita Patra.woff2') format('woff2'),
+         url('Dwita Patra.woff') format('woff'),
+         url('Dwita Patra.ttf') format('truetype'),
+         url('Dwita Patra.svg#Dwita Patraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
